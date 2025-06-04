@@ -1,0 +1,7 @@
+C:\Users\Sam\source\repos\ProfessionalWebsite\publish\ProfessionalWebsite.exe
+C:\Users\Sam\source\repos\ProfessionalWebsite\publish\appsettings.Development.json
+C:\Users\Sam\source\repos\ProfessionalWebsite\publish\appsettings.json
+C:\Users\Sam\source\repos\ProfessionalWebsite\publish\ProfessionalWebsite.dll
+C:\Users\Sam\source\repos\ProfessionalWebsite\publish\ProfessionalWebsite.deps.json
+C:\Users\Sam\source\repos\ProfessionalWebsite\publish\ProfessionalWebsite.runtimeconfig.json
+C:\Users\Sam\source\repos\ProfessionalWebsite\publish\ProfessionalWebsite.pdb
